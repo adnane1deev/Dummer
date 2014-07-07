@@ -3,3 +3,8 @@
 color : red;
 background: #000;
 }
+
+#container
+{
+  margin: 10px 0;
+}
